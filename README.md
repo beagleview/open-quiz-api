@@ -1,2 +1,2 @@
-# open-quiz-with-firebase
-this project help to setup quiz service and use fire store to store data
+# open-quiz-api
+this project help to setup quiz api and use firebase for store data
